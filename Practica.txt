@@ -1,0 +1,9 @@
+Archivo de practica para el curso de 
+Git y GitHub de Platzi
+
+Soy Manuel Alejandro Tabarez Arellano
+
+Tengo 23 años y tengo empleo en Bosch
+
+Estudio un diplomado en desarrollo de 
+software embebido y aleman.
